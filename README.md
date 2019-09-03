@@ -1,2 +1,2 @@
 # Fibonnaci-Sequence
-This is a Naive solution to generate the nth Fibonnaci number recursively. Looking to improve from here.
+This is an algorithm to find the nth Fibonacci number using lists.
